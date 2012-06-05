@@ -31,3 +31,7 @@ Un certain nombre de contraintes ont été rencontrées, et elles ont été rele
 	echo liste_ingredients($liste_ingredients_brownie);
 	echo "======================================<br />";
 	echo faire_la_recette($actions_ingredients_brownie);
+	
+####Créateur
+
+  * Simon Ertel ([korvus](https://github.com/korvus08))

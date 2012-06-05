@@ -1,6 +1,6 @@
 #Cuistot
 
-Une application php extremement basique qui permet de générer une *recette* de cuisine, ici d'un *brownie*, du listing de ses ingrédients aux actions pour sa préparation ! Cette application n'as pas de véritable but fonctionnelle, et est plus une histoire de fun et de défi "conceptuel" ;-\)
+Une application php qui permet de générer une *recette* de cuisine, ici d'un *brownie*, à partir du listing de ses ingrédients aux actions pour sa préparation ! Cette application n'as pas de véritable but fonctionnelle, et est plus une histoire de fun et de défi "conceptuel" ;-\)
 
 Un certain nombre de contraintes ont été rencontrées, et elles ont été relevées en principe, mais pas forcément dans un schéma englobant toutes les recettes de cuisine du monde. Pour ce faire, celà induirait un travail de factorisation a un niveau probablement supérieur, entrainant une logique bien plus conséquente ! \(On fait ici juste un brownie, n'oublions pas, qui reste une recette très "basique" !\). A néanmoins dut être géré :
 
@@ -22,9 +22,9 @@ Un certain nombre de contraintes ont été rencontrées, et elles ont été rele
 * `actions` : LA fonction de ce script, qui gére les interactions entre les différents éléments du tableau, et génére une phrase intelligible destinée à l'affichage. Prend respectivement en paramétres deux tableaux \(ingrédients et actions\), et deux chaînes de caractères \(lieu de l'action et finalités de celle-ci\).
 * `faire_la_recette` : boucle sur la liste des actions.
 
-####Les tableaux de valeurs spécifiques à la recette du brownie :
-* `$liste_ingredients_brownie` : Tableau qui liste autant de fois qu'il le faut pour chaque faire un brownie !
-* `$actions_ingredients_brownie` : Tableau qui liste les actions et paramètres spécifique pour faire ce même brownie !
+####Tableaux spécifiques au brownie :
+* `$liste_ingredients_brownie` : Tableau qui liste les fonction ingrédients autant de fois qu'il le faut pour faire un brownie !
+* `$actions_ingredients_brownie` : Tableau qui liste les actions et paramètres spécifiques pour faire ce même brownie !
 
 ####Exécution du code :
 

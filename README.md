@@ -31,6 +31,10 @@ Un certain nombre de contraintes ont été rencontrées, et elles ont été rele
 	echo liste_ingredients($liste_ingredients_brownie);
 	echo "======================================<br />";
 	echo faire_la_recette($actions_ingredients_brownie);
+
+####Liens divers :
+* [Démo](http://simonertel.net/dossiers/cuistotDemo.php)
+* [La vraie recette au brownie d'ou c'est partie !](http://simonertel.net/blog/recette-du-brownie-au-chocolat/)
 	
 ####Créateur
 

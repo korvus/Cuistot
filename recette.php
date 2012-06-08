@@ -2,7 +2,7 @@
 
 header("Content-Type: text/html;charset=utf-8");
 
-/* Utile pour quantifier les ingrédients*/
+/* Utile pour quantifier les ingrédients */
 $etalons = array(
     "gr",
     "sachet du commerce",

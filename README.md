@@ -33,9 +33,9 @@ Un certain nombre de contraintes ont été rencontrées, et elles ont été rele
 	echo faire_la_recette($actions_ingredients_brownie);
 
 ####Liens divers :
-* [Démo](http://simonertel.net/examples/cuistot)
+* [Démo](http://simonertel.net/dossiers/cuistotDemo.php)
 * [La vraie recette au brownie d'ou c'est partie !](http://simonertel.net/blog/recette-du-brownie-au-chocolat/)
 	
 ####Créateur
 
-  * Simon Ertel ([korvus](https://github.com/korvus))
+  * Simon Ertel ([korvus](https://github.com/korvus08))
